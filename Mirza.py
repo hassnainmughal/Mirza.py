@@ -72,7 +72,7 @@ f"""{Hj}
  - facebook    : https://www.facebook.com/hassnainmughal47
  - fanspage    : https://www.facebook.com/ᎡᎬᎠ-ᎷᎪҒᏆᎪ-102896575436747/
  - WhatsApp     : +923213230513
- - github      : github.com/HASSNAIN-MUGHAL
+ - github      : github.com/hassnainmughal
  - script name : MIRZA-2
  - version     : 1.4
  - update last : 20 March 2022
@@ -192,7 +192,7 @@ except KeyError:
 
 Recorder = 'MUGHAL-ZADA.' 
 fb_me = 'MUGHAL-ZADA'
-github = 'Mughal-Zada.'
+github = 'Mirza.'
 
 def banner():
 	os.system('clear')
