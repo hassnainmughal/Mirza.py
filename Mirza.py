@@ -1,4 +1,3 @@
-
 # coding=utf-8
 # coding by MUGHAL ZADA
 # Permission first bro if you want to recode, don't bother
